@@ -1,0 +1,9 @@
+ Computers only understand ones and zeros and the circuit patterns to execute the commands we provide.
+ Compiler is a special program that processes statements written in a particular programming language(Human understandable  language) and turns them into machine language 
+ When ever we give a executable file to compiler using lexical analysis it convert the given code in to tokens then the tokens are arranged in parse tree then it follows few intermediate steps
+ like optimization, assembly code, object code, linking and it makes a machine code that give correct pattern for compiler to execute correct commands and stores in the memory 
+ Example: Int x = 3;
+ after parsing it store the value of x in memory location if we change the code again it compiler follows all the process and store the value in the updated location other then storing
+ compiler performs a lot of other task based on the instructions provided in the code.
+ if we write compile code on one machine may not work on another machine new computer might have different operating system or hardware configurations so we have to create 
+ executable file for each and operating system to make it work
